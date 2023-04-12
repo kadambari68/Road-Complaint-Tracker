@@ -9,7 +9,7 @@ Users can also check the digital map. The engineer on the ground provides inform
 Whatsapp integration so users can upload the images there as it saves time and efforts of the citizens.
 An add to home screen button is also added so that shortcut of that website gets created.
 
-![image](https://user-images.githubusercontent.com/112871361/231436503-3fa5b0ff-4cfe-4283-8133-2cd9938eac2e.g)
+![image](https://user-images.githubusercontent.com/112871361/231438580-f54560ad-847e-4021-ad1f-cb3ec341030f.png)
 
 ![image](https://user-images.githubusercontent.com/112871361/231437503-1486a28f-88ce-46e4-857b-af8f07d5ba29.png)
 
