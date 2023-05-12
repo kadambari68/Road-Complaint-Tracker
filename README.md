@@ -6,8 +6,8 @@ Upload the location and images of the damaged roads.
 Track the status of the grievances registered by the user.
 Send Reminders to the department regarding a grievance.
 Users can also check the digital map. The engineer on the ground provides information on the condition of roads to the headquarters, where staff then uploads and updates the digital road map.
-Whatsapp integration so users can upload the images there as it saves time and efforts of the citizens.
-An add to home screen button is also added so that shortcut of that website gets created.
+API Integrated and checked by Postman - Whatsapp integration so users can upload the images there as it saves time and efforts of the citizens.
+Progressive Web App - An add to home screen button is also added so that shortcut of that website gets created.
 
 ![image](https://user-images.githubusercontent.com/112871361/231438580-f54560ad-847e-4021-ad1f-cb3ec341030f.png)
 
