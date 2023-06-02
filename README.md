@@ -49,8 +49,6 @@ Step -8 Run in browser
 
 ![image](https://user-images.githubusercontent.com/112871361/231437718-6b88cc5f-d2c7-442d-a942-dbe925f2f2f0.png)
 
-![image](https://user-images.githubusercontent.com/112871361/231437901-fa88fed3-b028-4bc1-863b-33f4aa8d44b8.png)
-
 ![image](https://user-images.githubusercontent.com/112871361/231438133-5aa8401d-ab97-49ff-ae31-0235fb532eaa.png)
 
  
