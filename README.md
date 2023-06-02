@@ -6,7 +6,7 @@
 * Send Reminders to the department regarding a grievance.
 * Users can also check the digital map. The engineer on the ground provides information on the condition of roads to the headquarters, where staff then uploads and updates the digital road map.
 * API Integrated and checked by Postman - Whatsapp integration so users can upload the images there as it saves time and efforts of the citizens.
-Progressive Web App - An add to home screen button is also added so that shortcut of that website gets created.
+* Progressive Web App - An add to home screen button is also added so that shortcut of that website gets created.
 
 **You can set up this in your PC**
 Must install PHP version (FOR WINDOWS) & (FOR MAC) Both
