@@ -1,4 +1,4 @@
-# Road-Complaint-Tracker
+# Road Complaint Tracker
 
 * A web portal for users where they can lodge grievances regarding poor road conditions.
 * Upload the location and images of the damaged roads.
@@ -8,7 +8,8 @@
 * API Integrated and checked by Postman - Whatsapp integration so users can upload the images there as it saves time and efforts of the citizens.
 * Progressive Web App - An add to home screen button is also added so that shortcut of that website gets created.
 
-**You can set up this in your PC**
+# You can set up this in your PC
+
 Must install PHP version (FOR WINDOWS) & (FOR MAC) Both
 
 Tutorial - https://www.youtube.com/watch?v=mVBe75aGBHQ
