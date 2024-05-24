@@ -1,14 +1,14 @@
 # Road Complaint Tracker
 
-* A web portal for users where they can lodge grievances regarding poor road conditions.
+* A web portal for users to lodge grievances regarding poor road conditions.
 * Upload the location and images of the damaged roads.
 * Track the status of the grievances registered by the user.
 * Send Reminders to the department regarding a grievance.
 * Users can also check the digital map. Every different coloured marker has a meaning to it which is displayed once we click on them. The engineer on the ground provides information on the condition of roads to the headquarters, where staff then uploads and updates the digital road map.
-* API Integrated and checked by Postman - Whatsapp integration(from OTP-less) so users can upload the images there as it saves time and efforts of the citizens.
+* API Integrated and checked by Postman - Whatsapp integration(from OTP-less) so users can upload the images there as it saves time and effort of the citizens.
 * Progressive Web App - An add to home screen button is also added so that shortcut of that website gets created.
 
-# You can set up this in your PC
+# You can set up this on your PC
 
 Must install PHP version (FOR WINDOWS) & (FOR MAC) Both
 
@@ -25,7 +25,7 @@ Step -1 Download Zip file
 
 Step -2 Unzip it & move it to htdocs folder
 
-Step -3 Go to xampp-pannel or mamp pannel and start apache and mysql
+Step -3 Go to xampp-panel or mamp pannel and start apache and mysql
 
 Step -4 To Setup the database, open
 
@@ -35,10 +35,10 @@ Step -5 Create New Database
 
 Step -6 Database Name "cms"
 
-Step -7 Import Database from "htdocs/db/cms.sql" directory .
+Step -7 Import Database from "htdocs/db/cms.sql" directory.
 
        cms.sql (db file)
-Step -8 Run in browser
+Step -8 Run in the browser
 
       localhost:8888/<name>/     (FOR MAC)
       localhost/<name>/          (FOR WINDOWS)
