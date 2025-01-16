@@ -1,12 +1,14 @@
 # Road Complaint Tracker
 
-* A web portal for users to lodge grievances regarding poor road conditions.
-* Upload the location and images of the damaged roads.
-* Track the status of the grievances registered by the user.
-* Send Reminders to the department regarding a grievance.
-* Users can also check the digital map. Every different coloured marker has a meaning to it which is displayed once we click on them. The engineer on the ground provides information on the condition of roads to the headquarters, where staff then uploads and updates the digital road map.
-* API Integrated and checked by Postman - Whatsapp integration(from OTP-less) so users can upload the images there as it saves time and effort of the citizens.
-* Progressive Web App - An add to home screen button is also added so that shortcut of that website gets created.
+Road Complaint Tracker is a web-based platform designed to empower citizens by enabling them to report road issues directly to municipal authorities. The system integrates geolocation services for precise reporting and utilizes WhatsApp API for streamlined communication, significantly enhancing the efficiency of civic issue resolution.
+
+Features:
+
+* User-Friendly Interface: Built with HTML, CSS, and JavaScript, featuring a responsive design for accessibility across devices.
+* Geolocation Mapping: Leveraged Leaflet.js to display complaint locations on interactive maps.
+* WhatsApp Integration: Utilized WhatsApp API for instant notifications and feedback to users.
+* Backend Functionality: Developed with PHP and MySQL for robust server-side operations and data management.
+
 
 # You can set up this on your PC
 
@@ -44,17 +46,15 @@ Step -8 Run in the browser
       localhost/<name>/          (FOR WINDOWS)
       
 
-![image](https://user-images.githubusercontent.com/112871361/231438580-f54560ad-847e-4021-ad1f-cb3ec341030f.png)
+![image](https://github.com/user-attachments/assets/401b56bc-1381-41b0-b370-881f5df5d720)
 
-![image](https://github.com/kadambari68/Road-Complaint-Tracker/assets/112871361/adb80eb4-b227-409a-883f-ff489cd15daf)
+![image](https://github.com/user-attachments/assets/602b6b6b-731b-4296-ab2e-f972e51cafae)
 
-![image](https://github.com/kadambari68/Road-Complaint-Tracker/assets/112871361/b50caea4-2d21-4b03-b577-d8d49126b51f)
+![image](https://github.com/user-attachments/assets/a5831ea1-ddb2-4451-9dce-dce7a95b0859)
 
-![image](https://user-images.githubusercontent.com/112871361/231438133-5aa8401d-ab97-49ff-ae31-0235fb532eaa.png)
+![image](https://github.com/user-attachments/assets/2bd35da7-9ffc-4707-993d-429b460d6162)
 
-![image](https://github.com/kadambari68/Road-Complaint-Tracker/assets/112871361/04d3833b-fa56-4346-af6e-319ae3b1abec)
-
-![image](https://github.com/kadambari68/Road-Complaint-Tracker/assets/112871361/b2bd807b-2f33-4f97-9802-9a086087e358)
+![image](https://github.com/user-attachments/assets/057753e4-095a-476d-98da-aa2ed75497e2)
 
 
 ![Road-complaint (1)](https://github.com/kadambari68/Road-Complaint-Tracker/assets/112871361/63d49370-fee1-4c85-8c61-86884a15e8d6)
