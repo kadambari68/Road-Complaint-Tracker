@@ -56,10 +56,3 @@ Step -8 Run in the browser
 
 ![image](https://github.com/user-attachments/assets/057753e4-095a-476d-98da-aa2ed75497e2)
 
-
-![Road-complaint (1)](https://github.com/kadambari68/Road-Complaint-Tracker/assets/112871361/63d49370-fee1-4c85-8c61-86884a15e8d6)
-
-
- 
- 
- 
